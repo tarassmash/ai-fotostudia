@@ -1,0 +1,11 @@
+{
+  "name": "ai-photostudio",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "AI-фотостудия: студийные портреты из селфи через fal.ai",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": { "node": ">=20" }
+}
